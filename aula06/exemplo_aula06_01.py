@@ -9,3 +9,11 @@
 
 # Estrutura de Repetição ( For )
 
+for i in range(5):
+    print('Olá Mundo!')
+
+
+for i in range (5):
+    print(i)    
+for i in range (5):
+    print(i)    
